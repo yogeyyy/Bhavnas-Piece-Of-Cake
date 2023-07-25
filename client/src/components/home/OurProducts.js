@@ -17,8 +17,8 @@ function OurProducts() {
     { image: CategoryImage3, heading: "Donuts", category: "Donuts" },
     { image: CategoryImage4, heading: "Cakejars", category: "Cake jars" },
     { image: CategoryImage5, heading: "Brownies", category: "Brownies" },
-    { image: CategoryImage6, heading: "Cakesickles", category: "Cakesickle" },
-    { image: CategoryImage7, heading: "Hampers", category: "Hamper" },
+    { image: CategoryImage6, heading: "Cakesickles", category: "Cakesickles" },
+    { image: CategoryImage7, heading: "Hampers", category: "Hampers" },
     { image: CategoryImage8, heading: "Desserts", category: "Desserts" },
   ];
 
